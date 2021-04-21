@@ -1,0 +1,32 @@
+.header {
+    height: 15%;
+}
+
+.nav-menu{
+    text-align: center;
+}
+
+.nav-menu ul {
+    flex-direction: column;
+    margin:0px;
+    height: 35px;
+    
+}
+
+.nav-menu ul li {
+    margin: 0px;
+    height: 35px;
+
+}
+
+.projects-container {
+    grid-template-columns: 1fr;
+}
+
+.contactLinks {
+    flex-wrap: wrap;
+}
+
+@media (max-width: 600px) {
+
+}

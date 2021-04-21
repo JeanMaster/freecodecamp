@@ -1,0 +1,7 @@
+.nav-menu {
+    justify-content: center;
+}
+
+.projects-container {
+    grid-template-columns: 1fr 1fr ;
+}
